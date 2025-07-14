@@ -151,20 +151,11 @@ You can manually test the Lambda:
 
 ---
 
-## 📅 Future Improvements
-
-* Add timezone awareness
-* Extend to multiple recipients
-* Store event name in a database for history tracking
-* Add Slack or SMS notification options
-
----
-
 ## 🧑‍💻 Author
 
 **Aryaman Pandey**
 📍 Chennai, India
-🔗 [linkedin.com/in/aryamanpandey](https://linkedin.com/in/aryamanpandey)
+🔗 [linkedin.com/in/aryamanpandey](https://www.linkedin.com/in/aryaman-pandey/)
 
 ---
 
@@ -172,12 +163,4 @@ You can manually test the Lambda:
 
 This project is released under the MIT License.
 
-```
-
----
-
-Let me know if you'd like to:
-- Add a sample Excel file for users
-- Include Terraform/IaC setup
-- Turn this into a public GitHub action or serverless template
 ```
