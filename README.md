@@ -162,5 +162,3 @@ You can manually test the Lambda:
 ## 📝 License
 
 This project is released under the MIT License.
-
-```
